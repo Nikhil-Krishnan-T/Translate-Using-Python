@@ -1,6 +1,9 @@
 # Translate-Using-Python
 
-To translate using Python, we have a package called googletrans, which helps us to access the Google Translation API to translate using Python. This project will take you through how we can use this package to bring using Python. 
+ 
+ Have you ever tried to translate any text using google, Do you know how Google does that? Google developers have created an API that does it all.
+
+In this project i will show you how to translate using python, We have a package called googletrans, which helped me to access the Google Translation API to translate using Python. 
 
 
 
