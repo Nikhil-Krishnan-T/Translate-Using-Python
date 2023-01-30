@@ -27,9 +27,9 @@ In this project i will show you how to translate using python, We have a package
 After above necessities are satisfied, Run the installer
 ## Screenshots
 
-![App Screenshot](https://github.com/Nikhil-Krishnan-T/Translate-Using-Python/blob/main/Result/Screenshot%202023-01-30%20200857.png)
+![App Screenshot](https://github.com/Nikhil-Krishnan-T/Translate-Using-Python/blob/main/Result/Screenshot%202023-01-30%20220209.png)
 
-![App Screenshot](https://github.com/Nikhil-Krishnan-T/Translate-Using-Python/blob/main/Result/Screenshot%202023-01-30%20213101.png)
+![App Screenshot](https://github.com/Nikhil-Krishnan-T/Translate-Using-Python/blob/main/Result/Screenshot%202023-01-30%20220318%202.png)
 ## Authors
 
 - [@Nikhil krishnan T](https://github.com/Nikhil-Krishnan-T)
